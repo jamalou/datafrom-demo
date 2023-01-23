@@ -1,0 +1,9 @@
+config {
+    type: "table",
+    schema: "sources"
+}
+
+select
+    1 as id,
+    'mohamed' as first_name,
+    'jamel' as last_name
